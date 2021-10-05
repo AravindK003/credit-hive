@@ -93,7 +93,7 @@ export default function Admin({ ...rest }) {
     };
   }, [mainPanel]);
   return (
-    <div className={classes.wrapper}>
+    <div>
       <Sidebar
         routes={routes}
         logoText={"Credit Hive"}

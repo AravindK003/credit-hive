@@ -35,8 +35,8 @@ export default function Dashboard() {
                                                                                                 href="/admin/cos-form"
                                                                                               >Customer Onboarding Form</a></span> Now!</Typography>
                    </GridItem>
-                   <GridItem xs={12} sm={6} md={3}>
-                       <img  src={widget} style={{marginLeft:'30px',width:'200px',height:'150px'}}/>
+                   <GridItem xs={12} sm={6} md={5}>
+                       <img  src={widget} style={{marginLeft:'10px',width:'200px',height:'150px'}}/>
                   </GridItem>
                  </GridContainer>
               </CardHeader>
